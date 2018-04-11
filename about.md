@@ -5,9 +5,10 @@ title: About Jungtae Lee
 
 
 # about
-<div class="post">
+<!-- <div class="post">
 <img src="{{ '/assets/img/profile.jpg' | prepend: site.baseurl }}" alt="">
-</div>
+</div> -->
+
 Jungtae Lee (이정태)
 Ph.D Student
 M.IN.D Lab in SKKU
