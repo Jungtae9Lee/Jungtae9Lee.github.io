@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About Jungtae Lee
 ---
 
 <div class="post">
