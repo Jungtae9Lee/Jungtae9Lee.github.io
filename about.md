@@ -10,15 +10,15 @@ title: About Jungtae Lee
 </div> -->
 ![profile](https://jungtae9lee.github.io/assets/img/profile.jpg)
 ## about
-  **Jungtae Lee (이정태)**
-  **Ph.D Student**
-  **[M.IN.D Lab][1]**
+  **Jungtae Lee (이정태)**  
+  **Ph.D Student**  
+  **[M.IN.D Lab][1]**  
   **[Sungkyunkwan University][2] (SKKU)**
 
 [1]: https://mindlab-skku.github.io/
 [2]: http://www.skku.edu/
 
-Contact
+Contact  
 clickmax85@gmail.com
 
 ## Education
