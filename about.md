@@ -15,9 +15,6 @@ title: About Jungtae Lee
   **[Sungkyunkwan University][2] (SKKU)**
 
 
-[TOC]
-
-
 [1]: https://mindlab-skku.github.io/
 [2]: http://www.skku.edu/
 
