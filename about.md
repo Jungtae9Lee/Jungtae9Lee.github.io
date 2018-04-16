@@ -5,15 +5,18 @@ title: About Jungtae Lee
 
 
 
-<!-- <div class="post">
-<img src="{{ '/assets/img/profile.jpg' | prepend: site.baseurl }}" alt="">
-</div> -->
 ![profile](https://jungtae9lee.github.io/assets/img/profile.jpg)
+
+
 ## about
   **Jungtae Lee (이정태)**  
   **Ph.D Student**  
   **[M.IN.D Lab][1]**  
   **[Sungkyunkwan University][2] (SKKU)**
+
+
+[TOC]
+
 
 [1]: https://mindlab-skku.github.io/
 [2]: http://www.skku.edu/
@@ -23,16 +26,16 @@ clickmax85@gmail.com
 
 ## Education
 - MS [2018.3 ~ **Current**]
-Department of Electronic, Electical & Computer Engineering
+Department of Electronic, Electical & Computer Engineering,  
 SungKyunKwan University(SKKU)
 
 - BS [2003.3 ~ 2010.7]
-Department of Electrical Engineering
+Department of Electrical Engineering,  
 Chonbuk National University(CBNU)
 
 ## Work Experience
-- Researcher, [Samsung Electronics Co.Ltd.][7](2010.8 ~ **Current**)
- == Responsibilities : System S/W(Embedded), Motor, sensor, Temperature control opimization, Image processing ==
+- Researcher, [Samsung Electronics Co.Ltd.][7](2010.8 ~ **Current**)  
+  Responsibilities : System S/W(Embedded), Motor, sensor, Temperature control opimization, Image processing
 - External Lecturer, [Jeonju IT&CT Industry Promotion Agency][8](2009.4~2009.11)
 - Member, [Samsung Software Membership][9] (2008.10 ~ 2010.7)
 
@@ -40,7 +43,7 @@ Chonbuk National University(CBNU)
 [8]: http://www.jica.or.kr
 [9]: http://secmem.org/
 
-### Research Topics
+## Research Topics
 - medical equipment image and signal analysis
 	- Application of Artificial Intelligence Algorithm for Medical Device Signal Processing
 	- Analysis of performance vulnerability during medical data calculation
