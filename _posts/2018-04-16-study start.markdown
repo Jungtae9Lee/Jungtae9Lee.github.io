@@ -2,7 +2,7 @@
 layout: post
 title:  "Featured Image"
 date:   2018-04-16
-image: touring.jpg
+image: test.jpg
 ---
 
 <p class="intro"><span class="dropcap">L</span>먼가 써봄.</p>
