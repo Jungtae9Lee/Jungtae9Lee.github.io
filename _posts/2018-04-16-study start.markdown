@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Featured Image"
+title:  "Learning Structured Sparsity in Deep Neural Networks"
 date:   2018-04-16
 image: test.jpg
 ---
 
-<p class="intro"><span class="dropcap">L</span>먼가 써봄.</p>
+<p class="intro"><span class="dropcap">무</span>엇이라도 써보기 위해서 작성해봅니다. 논문 리뷰 내용이란던가..</p>
 
 Learning Structured Sparsity in Deep Neural
 Networks
