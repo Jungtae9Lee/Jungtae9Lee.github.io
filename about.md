@@ -3,14 +3,11 @@ layout: default
 title: About Jungtae Lee
 ---
 
-
-
 ![profile](https://jungtae9lee.github.io/assets/img/profile.jpg)
-
 
 ## about
   **Jungtae Lee (이정태)**  
-  **Ph.D Student**  
+  **MS Student**  
   **[M.IN.D Lab][1]**  
   **[Sungkyunkwan University][2] (SKKU)**
 
@@ -32,7 +29,7 @@ Chonbuk National University(CBNU)
 
 ## Work Experience
 - Researcher, [Samsung Electronics Co.Ltd.][7](2010.8 ~ **Current**)  
-  Responsibilities : System S/W(Embedded), Motor, sensor, Temperature control opimization, Image processing
+  - Responsibilities : System S/W(Embedded), Motor, sensor, Temperature control opimization, Image processing
 - External Lecturer, [Jeonju IT&CT Industry Promotion Agency][8](2009.4~2009.11)
 - Member, [Samsung Software Membership][9] (2008.10 ~ 2010.7)
 
