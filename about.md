@@ -31,7 +31,7 @@ Chonbuk National University(CBNU)
 - Researcher, [Samsung Electronics Co.Ltd.][7](2010.8 ~ **Current**)  
   - Responsibilities : System S/W(Embedded), Motor, sensor, Temperature control opimization, Image processing
 - External Lecturer, [Jeonju IT&CT Industry Promotion Agency][8](2009.4~2009.11)
-- Member, [Samsung Software Membership][9] (2008.10 ~ 2010.7)
+- Member, [Samsung Software Membership][9] (2008.1 ~ 2010.7)
 
 [7]: http://www.samsung.com
 [8]: http://www.jica.or.kr
