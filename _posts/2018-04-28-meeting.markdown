@@ -1,0 +1,16 @@
+
+---
+layout: post
+title:  "W19 Week Group Meeting"
+date:   2018-04-18
+---
+
+<p class="intro"><span class="dropcap">C</span>onditional Distribution Learning With Neural Networks And Its Application To Universal Image Denoising
+Abstract: 
+The DUDE algorithm removes noise by simply counting the context and its corresponding signal. However, this method is not statistically accessible because the number of signals that can be counted decreases as the length of context increases. The Neural DUDE algorithm, which is a complement to this method, has a very high complexity for the output layer, making it difficult to apply it to grayscale images with many bits in the grayscale image. The CUDE algorithm which is introduced in this paper has much lower complexity than Neural DUDE and it can be easily plugged in any context. So, it can be easily applied to gray scale image with a lot of bits and can be plugged in prefiltered image. Because of these two features, CUDE is an algorithm that raises the performance of DUDE and Neural DUDE.
+
+4월 30일 (월)/이동호
+제목: Understanding Black-box Predictions via Inﬂuence Functions
+Abstract: 
+Deep running is a model of "black box" that has decent performance, but no one knows why it works. This paper assumes that the "black box" is function of training data and tries to figure out the influence of certain training data on the result. To achieve this goal, the author used 'influence function' which is developed at 1980. The reason for not applying it to ML so far is expensive cost of computation. However, this paper scales up this function so that we could use it on ML easily. They show that influence functions are useful for multiple purposes : understanding model behavior, debugging models, detecting data-set errors, and even creating visually indistinguishable training set attacks.</p>
+
